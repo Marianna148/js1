@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(to bottom right, blue, yellow);
+    height: 714px
+}
+
+h1 {
+    margin-top: 100px;
+}
